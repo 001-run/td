@@ -1,0 +1,16 @@
+[ignore]
+.*/dist/.*
+
+[include]
+src
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
+
+[version]
+0.60.1
